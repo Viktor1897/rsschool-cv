@@ -11,6 +11,7 @@ You can contact me:
 - Have a technical education and analitical mindset
 - Broad-minded and easygoing
 - Good communicative skills
+- Adaptable to new situations
 
 ### **Skills:**
 | Category | Description |
