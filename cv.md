@@ -4,7 +4,7 @@
 
 You can contact me:
 
- _Phone:_ +375 (25) 517-15-24 **|** _Email:_ vitykolosov@gmail.com **|** _Skype:_ 6cd10f201d491c9c **|** _Telegram:_ @vgkolosov
+| _Phone:_ +375 (25) 517-15-24 | _Email:_ vitykolosov@gmail.com | _Skype:_ 6cd10f201d491c9c | _Telegram:_ @vgkolosov |
 
 ### **Summary:**
 - Result-driven and fast learning
