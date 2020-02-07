@@ -14,12 +14,13 @@ You can contact me:
 - Adaptable to new situations
 
 ### **Skills:**
-| Category | Description |
-| -------- | ----------- |
-| Operating Systems: | Windows, Linux, Android |
-| Programming Languages: | JavaScript |
-| Version Control Systems: | Git |
-| Other: | HTML, CSS |
+**Operating Systems:** Windows, Linux, Android
+
+**Programming Languages:** JavaScript
+
+**Version Control Systems:** Git
+
+**Other:** HTML, CSS
 
 ### **Code Example:**
 ```javascript
