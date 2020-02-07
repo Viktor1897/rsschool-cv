@@ -15,7 +15,7 @@ You can contact me:
 
 ### **Skills:**
 | Category | Description |
-| --- | --- |
+| -------- | ----------- |
 | Operating Systems: | Windows, Linux, Android |
 | Programming Languages: | JavaScript |
 | Version Control Systems: | Git |
