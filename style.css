@@ -1,0 +1,73 @@
+body {
+    margin: auto;
+    font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+    font-size: 16px;
+    line-height: 32px;
+    max-width: 1024px;
+   
+    line-height: 32px;
+}
+
+.my-name {
+    text-align: center;
+    display: inline-block;
+    font-family: 'Playfair Display', serif;
+    position: relative;
+    top: 40%;
+    left: 31%;
+}
+h3 {
+    margin-bottom: 5px;
+    margin-top: 30px;
+}
+.contacts a {
+    background-repeat: no-repeat;
+    color: #fea18d;
+}
+
+.email {
+    padding-left: 25px;
+    background-image: url("img/icon-email.svg");
+}
+
+.phone {
+    padding-left: 25px;
+    background-image: url("img/icon-phone.svg");
+}
+
+.skills table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid black;
+    width: 200px;
+    padding-left: 10px;
+}
+
+.code p {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lightcyan;
+    padding: 10px;
+}
+.red {
+    color: red;
+}
+
+header {
+    margin-top: 60px;
+
+}
+
+header img {
+    float: right;
+    margin-top: 50px;
+    margin-right: 150px;
+    border-radius: 10px;
+}
+
+main { 
+
+
+}
