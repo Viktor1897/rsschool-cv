@@ -13,9 +13,10 @@
         <img src="img/photo1.jpg" alt="Viktar Kolasau">
         <h3>Contacts</h3>
         <div class="contacts">
-            <a class="email" href="mailto:vitykolosov@gmail.com">vitykolosov@gmail.com</a>
-            <br>
-            <a class="phone" href="tel:+375255171524">+375 (25) 517-15-24</a>
+            <ul>
+                <li><a class="email" href="mailto:vitykolosov@gmail.com">vitykolosov@gmail.com</a></li>
+                <li><a class="phone" href="tel:+375255171524">+375 (25) 517-15-24</a></li>
+            </ul>
         </div>
     </header>
 
@@ -55,7 +56,11 @@
 
         <section class="code">
             <h3>Code example</h3>
-            <p>alert('<span class="red">Hello World!</span>');</p>
+            <pre>       function count (str) {  
+            let result = {};
+            str.split('').forEach(key => result.hasOwnProperty(key) ? result[key] +=1 : result[key] = 1);
+                return (str.length == 0) ? {} : result;
+        }   </pre>
         </section>
 
         <section class="education">
@@ -69,7 +74,7 @@
         </section>
     </main>
     <footer>
-        <h4>Viktar Kolasau, 2021</h4>
+        <h4>Viktar Kolasau, <time>2021</time></h4>
     </footer>
 </body>
 </html>
