@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
+</head>
+<body>
+    <header>
+        <h1 class="my-name">Viktar Kolasau</h1>
+        <img src="img/photo1.jpg" alt="Viktar Kolasau">
+        <h3>Contacts</h3>
+        <div class="contacts">
+            <ul>
+                <li><a class="email" href="mailto:vitykolosov@gmail.com">vitykolosov@gmail.com</a></li>
+                <li><a class="phone" href="tel:+375255171524">+375 (25) 517-15-24</a></li>
+            </ul>
+        </div>
+    </header>
+
+    <main> 
+        <section class="summary">
+        <h3>Summary</h3>
+        <ul>
+            <li>Result-driven and fast learning;</li>
+            <li>Have a technical education and analitical mindset;</li>
+            <li>Broad-minded and easygoing;</li>
+            <li>Good communicative skills;</li>
+            <li>Adaptable to new situations;</li>
+        </ul>
+        </section>
+
+        <section class="skills">
+            <h3>Skills</h3>
+            <table>
+                <tr>
+                    <td>Operating Systems:</td>
+                    <td>Windows, Linux, Android</td>
+                </tr>
+                <tr>
+                    <td>Programming Languages:</td>
+                    <td>JavaScript, Java(essential)</td>   
+                </tr>
+                <tr>
+                    <td>Version Control Systems:</td>
+                    <td>Git</td>
+                </tr>
+                <tr>
+                    <td>Other:</td>
+                    <td>HTML, CSS</td>
+                </tr>
+            </table>
+        </section>
+
+        <section class="code">
+            <h3>Code example</h3>
+            <pre>       function count (str) {  
+            let result = {};
+            str.split('').forEach(key => result.hasOwnProperty(key) ? result[key] +=1 : result[key] = 1);
+                return (str.length == 0) ? {} : result;
+        }   </pre>
+        </section>
+
+        <section class="education">
+            <h3>Education</h3>
+            <p>Belarusian State University of Informatics and Radioelectronics</p>
+        </section>
+
+        <section class="languages">
+            <h3>English</h3>
+            <p>A2 Pre-intermediate. I’m improving my english with a private tutor.</p>
+        </section>
+    </main>
+    <footer>
+        <nav>
+        <ul>
+            <li><a href="https://github.com/Viktor1897" target="_blank"><img src="img/github.png" alt="github"></a></li>
+            <li><a href="https://rs.school/js/" target="_blank"><img src="img/rs_school_js.svg" alt="rs-school"></a></li>
+            <li><a href="https://youtu.be/UQpVjmOURBc" target="_blank"><img src="img/youtube.png" alt="youtube"></a></li>
+        </ul>
+        </nav>
+        <h4>Viktar Kolasau, <time>2021</time></h4>
+    </footer>
+</body>
+</html>
